@@ -7,7 +7,6 @@ use PDO;
 Class Sql
 {
 
-
     public $pdo;
     public $server;
     public $database;
